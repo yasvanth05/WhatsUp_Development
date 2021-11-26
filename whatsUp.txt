@@ -1,2 +1,4 @@
 Chat screen code
 last seen
+hide last seen
+Hide status
