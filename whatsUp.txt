@@ -2,3 +2,5 @@ Chat screen code
 last seen
 hide last seen
 Hide status
+Adding Audio call feature
+Adding video call feature
